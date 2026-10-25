@@ -1,0 +1,5 @@
+# Proteger comprovantes com dados bancários e CPFs
+Pagos/
+Recebidos/
+*.tmp
+*.bak
